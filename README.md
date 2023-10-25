@@ -6,7 +6,6 @@ Le projet est divisé en plusieurs composants :
 Des maquettes ont été créées pour les pages Desktop et Mobile suivantes :
 Page d'accueil
 Page des programmes sportifs
-Page de la galerie (bonus)
 Page d'inscription
 Ces maquettes capturent l'esprit de FitZone et garantissent une expérience utilisateur optimale.
 # Page d'Accueil
