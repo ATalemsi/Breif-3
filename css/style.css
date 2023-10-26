@@ -1011,9 +1011,7 @@ label{
   label {
     margin-bottom: 1%;
     color: #2B2D42;
-    font-size:30px ;
-  
-  
+    font-size:30px ;  
   }
 }
 @media (max-width:786px) and (max-width: 1023px){
@@ -1276,6 +1274,15 @@ label {
   margin-bottom: 1%;
   color: #2B2D42;
   font-size:30px ;
+}
+}
+@media (max-width:440px){
+  .first-div img {
+    width: 390px;
+    height: 580px;
+}
+.pro2 h3 {
+  font-size: 40px;
 }
 }
 
